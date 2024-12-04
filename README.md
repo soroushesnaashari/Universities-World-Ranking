@@ -1,4 +1,4 @@
-![Image from [Unsplash](https://unsplash.com/) by [Vasily Koloda](https://unsplash.com/@napr0tiv)](https://unsplash.com/photos/group-of-fresh-graduates-students-throwing-their-academic-hat-in-the-air-8CqDvPuo_kI)
+![Image from [Unsplash](https://unsplash.com/) by [Vasily Koloda](https://unsplash.com/@napr0tiv)](Image.jpg)
 
 ### Universities' World Ranking
 This project is for April 2024 which published on [Kaggle](https://www.kaggle.com/code/soroushesnaashari/universities-world-ranking) in October 2024 and now I decided to add it on my GitHub account too.
