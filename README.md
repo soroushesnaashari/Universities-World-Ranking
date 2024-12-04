@@ -1,4 +1,5 @@
-![Image from [Unsplash](https://unsplash.com/) by [Vasily Koloda](https://unsplash.com/@napr0tiv)](Image.jpg)
+[![](Image.jpg)](https://unsplash.com/photos/group-of-fresh-graduates-students-throwing-their-academic-hat-in-the-air-8CqDvPuo_kI)
+
 
 ### Universities' World Ranking
 This project is for April 2024 which published on [Kaggle](https://www.kaggle.com/code/soroushesnaashari/universities-world-ranking) in October 2024 and now I decided to add it on my GitHub account too.
@@ -13,11 +14,11 @@ Maybe in the future I tried to implement an appropriate algorithm to model it.
 
 ### Repository Contents
 
-- **Data:** Contains the [Original Dataset](https://www.kaggle.com/datasets/alifarajnia/eighteen-nineteen-university-datasets) and cleaned dataset in notebook.
+- **`Data`:** Contains the [Original Dataset](https://www.kaggle.com/datasets/alifarajnia/eighteen-nineteen-university-datasets) and cleaned dataset in notebook.
 
-- **Notebook:** Jupyter notebook detailing the entire visualization process.
+- **`Notebook`:** Jupyter notebook detailing the entire visualization process.
 
-- **README.md:** Project documentation.
+- **`README.md`:** Project documentation.
 
 <br>
 
