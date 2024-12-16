@@ -1,7 +1,6 @@
+## Universities' World Ranking
 [![](Image.jpg)](https://unsplash.com/photos/group-of-fresh-graduates-students-throwing-their-academic-hat-in-the-air-8CqDvPuo_kI)
 
-
-### Universities' World Ranking
 This project was for April 2024 which published on [Kaggle](https://www.kaggle.com/code/soroushesnaashari/universities-world-ranking) in October 2024 and now I decided to add it on my GitHub account too.
 
 <br>
